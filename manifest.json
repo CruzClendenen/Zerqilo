@@ -1,0 +1,10 @@
+{
+  "name": "Zerqilo \u2014 Training Journal",
+  "short_name": "Zerqilo",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#070b16",
+  "theme_color": "#0e1424",
+  "description": "Offline training journal, program builder and progress tracker.",
+  "icons": []
+}
