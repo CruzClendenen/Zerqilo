@@ -1,6 +1,6 @@
 # Zerqilo v5
 
-Zerqilo is a local-first training journal.
+Zerqilo is a local-first training journal..
 
 **Slogan:** Every rep remembered.
 
